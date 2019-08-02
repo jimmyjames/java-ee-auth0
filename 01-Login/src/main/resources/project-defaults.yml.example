@@ -1,0 +1,10 @@
+swarm:
+  logstash:
+    level: INFO
+  http:
+    port: 3000
+auth0:
+  domain: {DOMAIN}
+  clientId: {CLIENT_ID}
+  clientSecret: {CLIENT_SECRET}
+  scope: openid profile email
