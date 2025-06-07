@@ -17,7 +17,7 @@
     <failOnMissingWebXml>false</failOnMissingWebXml>
     <version.thorntail>2.5.0.Final</version.thorntail>
     <version.auth0>1.0.4</version.auth0>
-    <version.jackson>2.9.9</version.jackson>
+    <version.jackson>2.13.0</version.jackson>
 
   </properties>
 
